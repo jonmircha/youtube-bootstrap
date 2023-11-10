@@ -6,6 +6,7 @@ Hola soy tu amigo y docente digital Jonathan MirCha, bienvenid@s a mi curso.
 
 [Recursos](https://github.com/jonmircha/youtube-bootstrap/raw/main/img.zip) para hacer el curso.
 
+[Sitio desplegado](https://jonmircha.github.io/youtube-bootstrap/) en _GitHub Pages_.
 [Sitio desplegado](https://studiobaddog.com/) en _Hostinger_.
 
 Cupón de descuento en _Hostinger_: [**JONMIRCHA**](https://www.hostinger.mx/jonmircha).
