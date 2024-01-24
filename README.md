@@ -8,7 +8,7 @@ Hola soy tu amigo y docente digital Jonathan MirCha, bienvenid@s a mi curso.
 
 [Sitio desplegado](https://jonmircha.github.io/youtube-bootstrap/) en _GitHub Pages_.
 
-[Sitio desplegado](https://studiobaddog.com/) en _Hostinger_.
+[Sitio desplegado](https://studiobaddog.site/) en _Hostinger_.
 
 Cupón de descuento en _Hostinger_: [**JONMIRCHA**](https://www.hostinger.mx/jonmircha).
 
